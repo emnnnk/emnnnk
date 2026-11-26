@@ -18,7 +18,6 @@ Clarify the requirement, build, test, document. Clean code, short written report
 - 👁️ **Raspberry Pi 5 AI vision**: real-time person, face and object detection (AI Kit, Camera Module 3)
 - 🌧️ **TÜBİTAK 2209-A**: image enhancement and object detection for autonomous vehicles in bad weather (OpenCV, YOLO, CNN)
 - 🔌 **Embedded systems and PCB design**: KiCad, EasyEDA, microcontroller programming
-- 👗 [Outfit Recommendation AI](https://github.com/emnnnk/outfit-recommendation-ai): machine learning with real-time weather data
 
 ### Tools
 `C/C++ (Arduino)` `Python` `Node.js` `MATLAB/Simulink` `LTspice` `Multisim` `Ansys` `KiCad` `EasyEDA` `OpenRocket` `Wokwi` `OpenCV` `YOLO`
